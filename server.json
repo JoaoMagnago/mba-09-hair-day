@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1722034366350,
+      "name": "João Augusto",
+      "when": "2024-07-26T23:00:00.000Z"
+    }
+  ]
 }
